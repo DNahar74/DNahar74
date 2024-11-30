@@ -27,24 +27,31 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
 
 ---
 
-### Socials:
-[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](discord.com/users/darsh_nahar)  
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:nahardarsh55@gmail.com)  
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/darsh-nahar/)  
-[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/bw2074)
-
----
-
-### Stats:
 <div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)  
-  ![Streak](https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5)  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true)
+  <a href="discord.com/users/darsh_nahar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:nahardarsh55@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/darsh-nahar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/bw2074" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  </a>
 </div>
 
 ---
 
-### Skills:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="34" alt="javascript logo"  />
   <img width="12" />
@@ -73,8 +80,14 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
 
 ---
 
-![Snake Animation](https://raw.githubusercontent.com/DNahar74/DNahar74/output/snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DNahar74/DNahar74/output/snake.svg" alt="Snake animation" />
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=react&area=true&hide_border=true&custom_title=Contribution%20Graph)
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contibution%20Graph" height="300" alt="activity-graph graph"  />
+</div>
