@@ -25,8 +25,9 @@
 ⚡ **Fun Fact**  
 I’m a computer science student by day, stand-up comedy enthusiast by night, and a huge fan of chess and snooker in between. 🎭🎱♟️
 
----
 
+
+## Socials:
 <div align="center">
   <a href="discord.com/users/darsh_nahar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
@@ -42,16 +43,18 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
   </a>
 </div>
 
----
 
+
+## Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
----
 
+
+## Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="34" alt="javascript logo"  />
   <img width="12" />
@@ -78,17 +81,15 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="34" alt="vercel logo"  />
 </div>
 
----
+
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DNahar74/DNahar74/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DNahar74/DNahar74/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DNahar74/DNahar74/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DNahar74/DNahar74/output/snake.svg" alt="Snake animation" />
+</div>
 
----
+
 
 <br clear="both">
 
