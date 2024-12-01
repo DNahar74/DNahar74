@@ -94,5 +94,5 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contibution%20Graph" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contibution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
