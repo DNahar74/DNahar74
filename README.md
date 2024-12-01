@@ -1,6 +1,6 @@
-## Hi 👋! My name is Darsh
+# Hi 👋! My name is Darsh
 
-### 💫 About Me:
+## 💫 About Me:
 🔭 **Currently Working On**  
 - A **live sports tracker** to deliver real-time match scores.  
 - A **hospital management system** digitizing medical records for efficiency.  
