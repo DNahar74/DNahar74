@@ -77,8 +77,6 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="34" alt="socketio logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="34" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="34" alt="vercel logo"  />
 </div>
 
 
