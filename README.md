@@ -6,7 +6,7 @@
 - A **hospital management system** digitizing medical records for efficiency.  
 
 👯 **Open to Collaborations On**  
-- Projects involving **Next.js**, **real-time applications**, and **backend systems**.  
+- Projects involving **Next.js**, **Go**, **real-time applications**, and **backend systems**.  
 - Creative projects solving real-world problems with technology.  
 
 🤝 **Looking for Help With**  
