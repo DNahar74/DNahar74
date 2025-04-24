@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🔭 **Currently Working On**  
-- A **live sports tracker** to deliver real-time match scores.  
+- A **redis-like cache** to learn about database creation and concurrency.  
 - A **hospital management system** digitizing medical records for efficiency.  
 
 👯 **Open to Collaborations On**  
