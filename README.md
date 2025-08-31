@@ -25,22 +25,6 @@
 I’m a computer science student by day, stand-up comedy enthusiast by night, and a huge fan of chess and snooker in between. 🎭🎱♟️
 
 
-## Proof of Work
-
-<details>
-<summary>View My GitHub Stats & Activity</summary>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true&order=1" height="135" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" />
-  <br>
-  <img src="https://raw.githubusercontent.com/DNahar74/DNahar74/output/snake.svg" alt="Snake animation" />
-</div>
-</details>
-
 ## Tech Stack:
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
@@ -87,6 +71,23 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="34" alt="react logo" />
   </a>
 </div>
+
+
+## Proof of Work
+
+<details>
+<summary>View My GitHub Stats & Activity</summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true&order=1" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" />
+  <br>
+  <img src="https://raw.githubusercontent.com/DNahar74/DNahar74/output/snake.svg" alt="Snake animation" />
+</div>
+</details>
 
 
 ## Socials:
