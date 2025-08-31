@@ -2,8 +2,7 @@
 
 ## 💫 About Me:
 🔭 **Currently Working On**  
-- A **redis-like cache** to learn about database creation and concurrency.  
-- A **hospital management system** digitizing medical records for efficiency.  
+- A **distributed file system** to learn about sistributed-systems design and **consistency vs availability** tradeoffs.  
 
 👯 **Open to Collaborations On**  
 - Projects involving **Next.js**, **Go**, **real-time applications**, and **backend systems**.  
@@ -26,33 +25,21 @@
 I’m a computer science student by day, stand-up comedy enthusiast by night, and a huge fan of chess and snooker in between. 🎭🎱♟️
 
 
+## Proof of Work
 
-## Socials:
+<details>
+<summary>View My GitHub Stats & Activity</summary>
+<br>
 <div align="center">
-  <a href="https://www.discord.com/users/darsh_nahar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:nahardarsh55@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/darsh-nahar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/bw2074" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true&order=1" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" />
+  <br>
+  <img src="https://raw.githubusercontent.com/DNahar74/DNahar74/output/snake.svg" alt="Snake animation" />
 </div>
-
-
-
-## Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-
+</details>
 
 ## Tech Stack:
 <div align="center">
@@ -102,17 +89,18 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
 </div>
 
 
-
-<br clear="both">
-
+## Socials:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DNahar74/DNahar74/output/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contibution%20Graph" height="300" alt="activity-graph graph"  />
+  <a href="https://www.discord.com/users/darsh_nahar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:nahardarsh55@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/darsh-nahar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/bw2074" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  </a>
 </div>
