@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🔭 **Currently Working On**  
-- A **distributed file system** to learn about sistributed-systems design and **consistency vs availability** tradeoffs.  
+- A **distributed file system** to learn about distributed-systems design and **consistency vs availability** tradeoffs.  
 
 👯 **Open to Collaborations On**  
 - Projects involving **Next.js**, **Go**, **real-time applications**, and **backend systems**.  
