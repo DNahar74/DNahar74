@@ -77,11 +77,11 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true&order=1" height="135" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=react&locale=en&hide_border=true&order=1" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNahar74&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=DNahar74&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNahar74&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" />
   <br>
   <img src="https://raw.githubusercontent.com/DNahar74/DNahar74/output/snake.svg" alt="Snake animation" />
 </div>
