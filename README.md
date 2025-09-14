@@ -75,8 +75,6 @@ I’m a computer science student by day, stand-up comedy enthusiast by night, an
 
 ## Proof of Work
 
-<details>
-<summary>View My GitHub Stats & Activity</summary>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DNahar74&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true&order=1" height="135" alt="stats graph" />
